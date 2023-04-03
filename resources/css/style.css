@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: Veranda,Geneva, Tahona, sans-seif;
+
+}
+    .header--main {
+        font-weight: normal;
+        font-size: 50px;
+        color: #FFFFFF;
+
+    }
