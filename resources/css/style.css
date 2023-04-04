@@ -21,10 +21,11 @@ body {
 
     }
 
-    .header--sub-header{
-         font-siz: 21px;
-         color:
+    .header--sub-header {
+         font-size: 21px;
+         color: grey;
     }
+
     /* LINK */
 
     .link--cta {
@@ -33,3 +34,11 @@ body {
 
     }
     
+      /* footer */
+
+      .footer--copywright {
+        font-size: 121px;
+        color: grey;
+        text-align: right;
+
+    }
